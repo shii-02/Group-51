@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="add_food" />
+    <string name="add_button_description">Add new food item</string>
+    <string name="title_inventory">Inventory</string>
+    <string name="title_shopping">Shopping List</string>
+    <string name="title_waste">Food Waste</string>
+    <string name="title_settings">Settings</string>
+    <!--  Shopping List Screen  -->
+    <string name="shopping_list_title">Shopping List</string>
+    <string name="empty_shopping_list">Your shopping list is empty\nTap + to add ingredients</string>
+    <string name="delete_confirm_title">Delete Ingredient</string>
+    <string name="delete_confirm_message">Delete %s?</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="quantity_prefix">Need: %d</string>
+    <!--  Add Ingredient Screen  -->
+    <string name="add_ingredients_title">Add Ingredients</string>
+    <string name="ingredient_name">Ingredient Name</string>
+    <string name="quantity">Quantity</string>
+    <string name="priority">Priority</string>
+    <string name="priority_high">High</string>
+    <string name="priority_medium">Medium</string>
+    <string name="priority_low">Low</string>
+    <string name="add_to_list">Add to List</string>
+    <string name="edit_ingredient">Edit Ingredient</string>
+    <string name="update">Update</string>
+    <!--  FAB and UI Elements  -->
+    <string name="fab_add_description">Add new ingredient</string>
+    <string name="fab_add">Add new Food</string>
+    <string name="checkbox_description">Mark item as purchased</string>
+    <string name="priority_icon_description">Priority level indicator</string>
+    <!--  Error Messages  -->
+    <string name="error_empty_name">Please enter an ingredient name</string>
+    <string name="error_empty_quantity">Please enter a quantity</string>
+    <string name="error_invalid_quantity">Please enter a valid quantity</string>
+    <!--  Other Strings  -->
+    <string name="action_search">Search</string>
+    <string name="search_hint">Search ingredients...</string>
+    <string name="no_expired_items">No expired items found!\n\nYou\'re doing great!</string>
+
+    <!-- New version (correct) -->
+    <string name="waste_count">Expired Items: %1$d</string>
+</resources>
